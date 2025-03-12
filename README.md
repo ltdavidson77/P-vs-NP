@@ -176,7 +176,5 @@ By accessing or utilizing this research, you agree to the terms and conditions s
 
 ---
 
-This robust conditional license ensures that RH-BSD remains an open research initiative while preventing unauthorized commercial exploitation.
-
-Let me know if you'd like any modifications or refinements before you implement this in the repository. 🚀
+This robust conditional license ensures that RH-BSD remains an open research initiative while preventing unauthorized commercial exploitation
 
